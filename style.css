@@ -10,7 +10,7 @@ body a {
 
 .content-center {
     position: absolute;
-    top: 20%;
+    top: 15%;
     left: 20%;
     transform: traslate (-50%, -50%);
     text-align: center;
